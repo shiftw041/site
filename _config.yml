@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "shiftw's page" # the main title
+title: "shiftw's site" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Carpe diem, seize the day # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This site will display my resume, research achievements, and project experience, documenting my journey towards graduate studies. I hope it can not only help me organize and present but also inspire others.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://shiftw041.github.io"
 
 github:
-  username: shiftw # change to your github username
+  username: shiftw041 # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
