@@ -6,7 +6,7 @@ order: 4
 
 I am a junior in school of Cyber Science and Engineering, Huazhong University of Science and Technology. 
 
-My Complete Resume: [**<font color="red">EN</font>**](https://shiftw041.github.io/online-resume/) | [**<font color="red">CN</font>**](https://shiftw041.github.io/online-resume/cn)
+My Complete Resume: [**EN**](https://shiftw041.github.io/online-resume/){style="color: red;"} | [**CN**](https://shiftw041.github.io/online-resume/cn){style="color: red;"}
 
 I am enthusiastic about the prospect of furthering my studies in China, particularly in the field of efficient artificial intelligence. Throughout my undergraduate program, I have not only achieved excellent academic results, ranking 6th out of 98 with an average GPA of 4.43/5, but also actively involved in various research projects.
 
