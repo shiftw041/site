@@ -1,7 +1,7 @@
 ---
-title: TITLE
+title: Page for test
 date: 2024-06-09 19:21:34 +0800
-categories: TOP_CATEGORIE
+categories: Unimportant
 tags: [test]     # TAG names should always be lowercase
 description: The first page is used to test.
 ---
