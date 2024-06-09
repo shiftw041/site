@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 <div style="text-align: center;">
-  <img src="root/profile1.png" alt="Wu Xuefei" style="border-radius: 50%; width: 100px; height: 100px;">
+  <img src="https://github.com/shiftw041/site/blob/f72f419d056995bc4d3bb65a9555353d4f047c24/profile1.png" alt="Wu Xuefei" style="border-radius: 50%; width: 100px; height: 100px;">
 </div>
-I am a junior in school of Cyber Science and Engineering, Huazhong University of Science and Technology. (CV: [EN](https://shiftw041.github.io/online-resume/) \| [CN](https://shiftw041.github.io/online-resume/cn)
+I am a junior in school of Cyber Science and Engineering, Huazhong University of Science and Technology. (CV: [EN](https://shiftw041.github.io/online-resume/) | [CN](https://shiftw041.github.io/online-resume/cn)
 
 I am enthusiastic about the prospect of furthering my studies in China, particularly in the field of efficient artificial intelligence. Throughout my undergraduate program, I have not only achieved excellent academic results, ranking 6th out of 98 with an average GPA of 4.43/5, but also actively involved in various research projects.
 
