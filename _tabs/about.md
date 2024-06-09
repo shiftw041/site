@@ -23,10 +23,12 @@ I am looking forward to joining a research group that aligns with me and embarki
 - GitHub: [shiftw041](https://github.com/shiftw041)
 
 # Education
-- **Huazhong University of Science and Technology** (2021 - 2025)
+**Huazhong University of Science and Technology** (2021 - 2025)
   Bachelor in Cyberspace Security
-  - GPA: 4.43/5.00, Major Ranking: 6/98, English Level: CET-6 557, CSP Certification: Top 7%
-  - Courses: Calculus (94), C Language Programming (88), Discrete Mathematics (100), Data Structures (95), Assembly Language Programming (92), Computer Networks (92), Principles of Computer Organization (88), Principles of Compilers (91), Algorithm Design and Analysis (92), Comprehensive Course Design in Programming (96)
+  
+  GPA: 4.43/5.00, Major Ranking: 6/98, English Level: CET-6 557, CSP Certification: Top 7%
+  
+  Courses: Calculus (94), C Language Programming (88), Discrete Mathematics (100), Data Structures (95), Assembly Language Programming (92), Computer Networks (92), Principles of Computer Organization (88), Principles of Compilers (91), Algorithm Design and Analysis (92), Comprehensive Course Design in Programming (96)
 
 # Awards
 
@@ -52,7 +54,8 @@ Learned basic parallel programming methods and implemented performance optimizat
 
 ## On-Campus Research — Federated Learning for Medical Image Segmentation
 2023.12 - Present   
-Researched the application of federated learning in medical image segmentation, addressing issues of complex model structure and high computational cost. Explored and integrated Quantization Aware Training (QAT) for model compression and inference acceleration, reducing computational load to approximately one-fourth of the floating-point precision with minimal loss of accuracy.  
+Researched the application of federated learning in medical image segmentation, addressing issues of complex model structure and high computational cost. 
+- Explored and integrated Quantization Aware Training (QAT) for model compression and inference acceleration, reducing computational load to approximately one-fourth of the floating-point precision with minimal loss of accuracy.  
 - The team is currently writing a paper expected to be submitted to IEEE-BIBM (CCF-B).
 
 ## Information Security Competition — Multimodal Audio Attack Detection Based on Neural Networks
