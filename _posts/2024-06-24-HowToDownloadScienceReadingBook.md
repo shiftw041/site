@@ -1,6 +1,6 @@
 ---
-title: Server
-description: How to download the book in ScienceReading
+title: How To Download ScienceReading Book
+description: Record how to download the book pdf in ScienceReading
 date: 2024-06-24 22:28:00 +0800
 categories: [Blogs]
 tags: [usage]
